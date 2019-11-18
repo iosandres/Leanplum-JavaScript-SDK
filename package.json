@@ -19,7 +19,7 @@
     "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
     "chai": "^3.5.0",
-    "eslint": "^3.19.0",
+    "eslint": "^4.18.2",
     "eslint-config-google": "^0.7.1",
     "eslint-loader": "^1.6.1",
     "grunt": "^1.0.1",
